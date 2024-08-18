@@ -10,5 +10,5 @@ setup(
     description='Uma biblioteca para criar interfaces modernas com Tkinter',
     author='Seu Nome',
     author_email='seuemail@example.com',
-    url='https://github.com/seuusuario/modern_ui_lib',  # URL do repositório
+    url='https://github.com/BabuinoZxZ/modern_ui_lib.git',  # URL do repositório
 )
